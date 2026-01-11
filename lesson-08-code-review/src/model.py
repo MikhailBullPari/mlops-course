@@ -10,3 +10,5 @@ class TaxiFareModel:
 
     def predict(self, X):
         return self.model.predict(X)
+# write something for possible pull request
+# in my pr i will focus on basecode, not on changes
